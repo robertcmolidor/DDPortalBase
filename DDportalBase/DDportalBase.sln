@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDportalBase", "DDportalBase\DDportalBase.csproj", "{20996125-5174-4869-A1C3-A828257EF09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDportalBase.Tests", "DDportalBase.Tests\DDportalBase.Tests.csproj", "{8EA58803-659E-4E93-ABA5-2683B452DCCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20996125-5174-4869-A1C3-A828257EF09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20996125-5174-4869-A1C3-A828257EF09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20996125-5174-4869-A1C3-A828257EF09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20996125-5174-4869-A1C3-A828257EF09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA58803-659E-4E93-ABA5-2683B452DCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA58803-659E-4E93-ABA5-2683B452DCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA58803-659E-4E93-ABA5-2683B452DCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA58803-659E-4E93-ABA5-2683B452DCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
